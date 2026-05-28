@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "emaildncrypt",
+        "uuid": 22392732,
+        "checksum": "5quoic"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
